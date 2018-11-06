@@ -4,4 +4,6 @@
 表情可以自定义添加，包括自定义gif
 相册、位置、名片等功能可以自己根据需要扩展
 
+建议采用导入源码方式使用。
+
 示例：![示例](https://raw.githubusercontent.com/CheaterHu/WeChatInputBar/master/demo.gif)
