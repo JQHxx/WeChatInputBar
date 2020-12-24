@@ -24,4 +24,5 @@
 @property (nonatomic, strong) HCDChatBoxMoreView *chatBoxMoreView;
 @property (nonatomic, strong) HCDChatBoxFaceView *chatBoxFaceView;
 @property(nonatomic, weak) id<HCDChatBoxViewControllerDelegate> delegate;
+
 @end
